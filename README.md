@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 ![](https://komarev.com/ghpvc/?username=Chan123Chan123)
+- 👋 Hi, I’m hello-world.
 ![Chan123Chan123's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chan123Chan123&show_icons=true)
 
 <!--

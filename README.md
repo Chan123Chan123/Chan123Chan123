@@ -1,5 +1,5 @@
-## Hi there 👋 ![GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=Chan123Chan123)
-- 👋 Hi, I’m hello-world.
+## Hi! I'm hello-world. 👋 ![GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=Chan123Chan123)
+- 🔭 I’m currently working on hello-world.
 - 👀 My research interests cover hello-world.
 
 <img src="https://github-readme-stats.vercel.app/api?username=Chan123Chan123&show_icons=true&hide=issues" height="156"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chan123Chan123" height="156"/>

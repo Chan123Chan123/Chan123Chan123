@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Chan123Chan123's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chan123Chan123)
+![Chan123Chan123's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chan123Chan123&show_icons=true)
 
 <!--
 **Chan123Chan123/Chan123Chan123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

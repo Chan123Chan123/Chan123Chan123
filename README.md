@@ -2,6 +2,8 @@
 - 👋 Hi, I’m hello-world.
 - 👀 My research interests cover hello-world.
 
+<img src="https://github-readme-stats.vercel.app/api?username=Chan123Chan123&show_icons=true" height="156"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chan123Chan123" height="156"/>
+
 <!--
 ![Chan123Chan123's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chan123Chan123&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chan123Chan123)

@@ -1,4 +1,4 @@
-## Hi! I'm hello-world. 👋
+<h2 align="center"> Hi! I'm hello-world. 👋 </h2>
 ![GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=Chan123Chan123)
 - 🔭 I’m currently working on hello-world.
 - 👀 My research interests cover hello-world.
@@ -6,6 +6,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Chan123Chan123&show_icons=true&hide=issues" height="156"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chan123Chan123" height="156"/>
 
 <!--
+## Hi! I'm hello-world. 👋
 ![Chan123Chan123's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chan123Chan123&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chan123Chan123)
 -->
